@@ -8,4 +8,4 @@ Imagine every time you wanted to give someone your contact details or your busin
 * How to add Material icons 
 * How to style Text widgets 
 * Using Card widget(you can learn more through flutter documentation)
-* Using Listtile Widtge(you can learn more through flutter documentation)
+* Using ListTile Widtge(you can learn more through flutter documentation)
